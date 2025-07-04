@@ -42,7 +42,7 @@ Login Password: mohit@123
 Encryption/Decryption Key: mohit@123
 
 📸 Screenshots
-You can add screenshots of the GUI here after uploading them in the repo.
+You can see screenshots of the GUI in the repo code key.png.
 
 ⚠️ Disclaimer
 This app uses Base64 for educational purposes, which is not secure for real-world cryptography. For actual secure applications, use libraries like cryptography or PyCrypto.
